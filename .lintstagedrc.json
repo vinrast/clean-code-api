@@ -1,3 +1,3 @@
 {
-  "*.ts": ["esllint 'src/**' --fix"]
+  "*.ts": ["eslint 'src/**' --fix"]
 }
