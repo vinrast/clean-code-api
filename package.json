@@ -4,7 +4,8 @@
   "description": "clean code test with node",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest"
   },
   "author": "vincen santaella",
   "license": "ISC",
